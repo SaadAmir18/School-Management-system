@@ -22,6 +22,7 @@ public class Main {
         for (Personal personal : Personal.read()) {
 
             System.out.println(personal.getId());
+            // testing
         }
 
 
